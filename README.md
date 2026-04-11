@@ -14,7 +14,6 @@ resp_vpd_burden_signals/
 │
 ├── data_raw/
 │   ├── vaxview/
-│   ├── fluview/
 │   ├── mortality_nchs/
 │   ├── medicare_puf/
 │   └── medicaid_open/
